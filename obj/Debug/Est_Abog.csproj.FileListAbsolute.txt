@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\  \Facultad (Antiguo)\Facu-3erC-(2doC-2022)\Algoritmos y Progra\Estudio_Abog\bin\Debug\Est_Abog.exe.config
+C:\Users\Admin\Desktop\  \Facultad (Antiguo)\Facu-3erC-(2doC-2022)\Algoritmos y Progra\Estudio_Abog\bin\Debug\Est_Abog.exe
+C:\Users\Admin\Desktop\  \Facultad (Antiguo)\Facu-3erC-(2doC-2022)\Algoritmos y Progra\Estudio_Abog\bin\Debug\Est_Abog.pdb
+C:\Users\Admin\Desktop\  \Facultad (Antiguo)\Facu-3erC-(2doC-2022)\Algoritmos y Progra\Estudio_Abog\obj\Debug\Est_Abog.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\  \Facultad (Antiguo)\Facu-3erC-(2doC-2022)\Algoritmos y Progra\Estudio_Abog\obj\Debug\Est_Abog.exe
+C:\Users\Admin\Desktop\  \Facultad (Antiguo)\Facu-3erC-(2doC-2022)\Algoritmos y Progra\Estudio_Abog\obj\Debug\Est_Abog.pdb
